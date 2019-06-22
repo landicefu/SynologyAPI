@@ -1,0 +1,3 @@
+[submodule "QuickConnectInterceptor"]
+	path = QuickConnectInterceptor
+	url = https://github.com/topwu/quickconnect-interceptor.git

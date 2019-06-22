@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor.iml" filepath="$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor_main.iml" group="QuickConnectInterceptor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor_test.iml" group="QuickConnectInterceptor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SynologyAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/SynologyAPI.iml" />
+    </modules>
+  </component>
+</project>
