@@ -4,6 +4,10 @@
     <bytecodeTargetLevel>
       <module name="QuickConnectInterceptor_main" target="1.8" />
       <module name="QuickConnectInterceptor_test" target="1.8" />
+      <module name="SynologyAPI.QuickConnectInterceptor.main" target="1.8" />
+      <module name="SynologyAPI.QuickConnectInterceptor.test" target="1.8" />
+      <module name="tw.lifehackers.SynologyAPI.main" target="1.8" />
+      <module name="tw.lifehackers.SynologyAPI.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

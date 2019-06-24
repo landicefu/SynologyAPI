@@ -5,7 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor.iml" filepath="$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor_main.iml" group="QuickConnectInterceptor" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor_test.iml" group="QuickConnectInterceptor" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SynologyAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/SynologyAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor/SynologyAPI.QuickConnectInterceptor.iml" filepath="$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor/SynologyAPI.QuickConnectInterceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor/SynologyAPI.QuickConnectInterceptor.main.iml" filepath="$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor/SynologyAPI.QuickConnectInterceptor.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor/SynologyAPI.QuickConnectInterceptor.test.iml" filepath="$PROJECT_DIR$/.idea/modules/QuickConnectInterceptor/SynologyAPI.QuickConnectInterceptor.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tw.lifehackers.SynologyAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/tw.lifehackers.SynologyAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tw.lifehackers.SynologyAPI.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tw.lifehackers.SynologyAPI.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tw.lifehackers.SynologyAPI.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tw.lifehackers.SynologyAPI.test.iml" />
     </modules>
   </component>
 </project>
